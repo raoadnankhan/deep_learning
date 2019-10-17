@@ -1,0 +1,7 @@
+*#
+*.git
+*.egg
+*.eggs
+*.egg-info
+*.egg-info/
+*.ipynb_checkpoints
